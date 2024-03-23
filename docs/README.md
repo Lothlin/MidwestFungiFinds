@@ -1,2 +1,2 @@
-[Main](/Main.md)
+[Main](/Main.html)
 
