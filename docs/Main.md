@@ -1,5 +1,6 @@
+---
 permalink: /Main.html
-
+---
 # Welcome to Midwest Fungi Finds!
 
 This site is intended to help document the species sequenced by the [Ohio Mushroom DNA Lab](https://www.inaturalist.org/projects/ohio-fungi-with-dna-sequence-data-ohio-mycoflora-project) and other sequencing projects throughout North America. Primarily, our focus is on Ohio but you will see representations of species found in other states more collections are made and sequenced from those areas.
